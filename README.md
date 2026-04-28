@@ -37,4 +37,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Hello! I'm **Sebastian Cardenas**, an aspiring data professional currently focused on SQL, data modeling, and data warehousing. Over the past few months, I've been building hands-on projects to develop practical skills in ETL processes, data cleaning, and analytical querying.
 
-Before transitioning into data, I spent 5 years developing visual novels using Ren'Py, where I worked extensively with Python to build interactive systems and manage complex logic. This experience helped me develop strong problem-solving skills and a structured approach to building systems, which I now apply to data engineering and analytics projects.
+Before transitioning into data, I've been developing visual novels using Ren'Py since 2020, where I worked extensively with Python to build interactive systems and manage complex logic. This experience helped me develop strong problem-solving skills and a structured approach to building systems, which I now apply to data engineering and analytics projects.
